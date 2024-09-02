@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **FZU**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/2301_76181286?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_76181286?spm=1000.2115.3001.5343)
-
+- 📝 I regularly write articles on
+  [csdn](https://blog.csdn.net/2301_76181286?spm=1000.2115.3001.5343)
+  [cnblog](https://home.cnblogs.com/u/starryship)
 - 📫 How to reach me **xing@west.online**
 
 - ⚡ Fun fact **I think I'm a good guy.**
