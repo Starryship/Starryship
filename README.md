@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">nice toaa</h2>
+<h2 align="center">About me👯</h2>
 
 I'm work on 
 <h3 align="left">😄 Myself </h3>
