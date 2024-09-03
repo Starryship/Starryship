@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">About me👯</h1>
 
-I'm work on 
+Hello there! Welcome to my GitHub page. I’m a student at the College of Computer Science and Big Data at Fuzhou University, majoring in Data Science and Big Data Technology. I’m currently diving deep into the fascinating worlds of AI, big data, and front-end development.
+
+When it comes to AI, I’m like a fish in water with PyTorch—I love building neural networks and fine-tuning models. My adventures in AI have taken me through the realms of computer vision (both 2D and 3D), speech recognition, and even sound cloning. I’m all about experimenting with AI, deploying large models, and cracking open the mysteries of their architectures. I’m currently involved in research projects with fun titles like “SV3D: Pet Image-to-Video Diffusion Model for New Multi-View Synthesis and 3D Generated Pet Avatars” and “LoRA to SV3D: Single Image Latent Multi-View Video Synthesis Using MindSpore”. As for my field of study, I excel at data processing and data collection and am pretty handy with distributed computing frameworks like Hadoop. But when it comes to front-end development, well, let's just say I'm still in the “hello world” phase with HTML, JavaScript, and Vue. In the future, I plan to get my hands dirty with some front-end frameworks to design cool web stuff.
+
+Looking ahead, my master plan is to become a data mining, data analysis, and AI engineer. First, I’ll ace my coursework, then I’ll dabble in some projects and competitions, and finally, I’ll consider further studies to reach even greater heights.
+
 <h2 align="left">😄 Myself </h2>
 <p align="left">
 
