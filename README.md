@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey👋 ! Nice to meet you.
 
 <!--
 **Starryship/Starryship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">nice toaa</h3>
+
+I'm work on 
 
 - 🔭 I’m currently working on **FZU**
 
