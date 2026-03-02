@@ -47,8 +47,8 @@ Looking ahead, my master plan is to become a data mining, data analysis, and AI 
 -->
 
 - 📝 文章
-  [cnblog](https://home.cnblogs.com/u/starryship)
-  [csdn](https://blog.csdn.net/2301_76181286?spm=1000.2115.3001.5343)、
+  [cnblog](https://home.cnblogs.com/u/starryship)、
+  [csdn](https://blog.csdn.net/2301_76181286?spm=1000.2115.3001.5343)
 
 - 📫 邮箱：321705682@qq.com
 
